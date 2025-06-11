@@ -1,0 +1,28 @@
+.about-section{
+  background-color: rgb(12, 12, 12);
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+
+  
+}
+.model-container{
+  max-width: 500px;
+  max-height: 500px;
+  flex: 1;
+  background-color: rgb(12, 12, 12);
+}
+.about-content{
+  max-width: 500px;
+  max-height: 500px;
+  flex: 1;
+  background-color: rgb(12, 12, 12);
+  color: white;
+}
+.about-content h2{
+  color: rgb(227, 57, 227);
+  font-family: poppins, sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}

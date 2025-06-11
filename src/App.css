@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  scroll-behavior: smooth;
+  background: rgb(12, 12, 12);
+}
+
+.section {
+  min-height: 100vh;
+  padding: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.about-section {
+  
+  color: #333;
+}
+
+.projects-section {
+  background: rgb(12, 12, 12);;
+  color: #333;
+}
+
+.contact-section {
+  background: rgb(12, 12, 12);
+  color: white;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  min-height: 100vh;
+  padding: 2rem;
+}
